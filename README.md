@@ -5,7 +5,7 @@ A more traditional style frame based spritesheet animation
 
 ## Example
 
-checkout the `example/walking_sprite` branch for a full working example with multiple animations, cancelling, changing based on input, etc.
+checkout the [example/walking_sprite`](https://github.com/ericandre615/piston-spritesheet/tree/example/walking_sprite) branch for a full working example with multiple animations, cancelling, changing based on input, etc.
 You should be able to just checkout `example/walking_sprite` and run `cargo run` and it should be all good to go.
 
 ## Usage
