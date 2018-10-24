@@ -3,6 +3,20 @@
 
 A more traditional style frame based spritesheet animation
 
+## Example
+running this example:
+First, if you don't have rust installed you should install rust.
+I recommend installing through [rustup](https://rustup.rs/).
+
+- `git clone` this repo
+- cd into `piston-spritesheet`
+- `git fetch --all`
+- `git checkout example/walking_sprite`
+- `cargo run`
+
+If you're machine doesn't support OpenGL v3.2 you can change the version
+in `src/main.rs` to a lower version. This may or may not work.
+
 ## Usage
 
 import and use spritesheet crate. Currently requires piston crate
